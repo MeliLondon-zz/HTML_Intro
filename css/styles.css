@@ -149,13 +149,13 @@ a.social {
   transition: all .25s;
 }
 a.twitter {
-  background-image: url(img/Twitter.jpg);
+  background-image: url('img/Twitter.jpg');
 }
 a.linkedin {
-  background-image: url(img/LinkedIn.jpg);
+  background-image: url('img/LinkedIn.jpg');
 }
 a.github {
-  background-image: url(img/GitHub-Mark.jpg);
+  background-image: url('img/GitHub-Mark.jpg');
 }
 a.social:hover {
   opacity: 1;
